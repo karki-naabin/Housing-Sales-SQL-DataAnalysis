@@ -4,8 +4,11 @@ Project solely done with SQL-PostgreSQl in order to analyze data to help retail 
 It includes the following variables:
 
 Saledate: The date when an owner sold the house to a buyer.
+
 MA: Moving price of the property
+
 Type: Type of housing
+
 Bedrooms: No of bedrooms
 
 Data from CSV file was copied into the database and data analysis through SQL was performed. Various questions related to datasets were answered 
